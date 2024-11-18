@@ -1,4 +1,4 @@
-![Header](./[Your header image])
+![Header](./github-header-image.png)
 
 ## Hi there 👋
 Hello ! My name is Thibault Manse, I live in Marseille and im a new software developer / website developer. You can follow me on

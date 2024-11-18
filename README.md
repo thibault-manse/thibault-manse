@@ -6,7 +6,7 @@ Hello ! My name is Thibault Manse, I live in Marseille and im a student, aspirin
 
 ## Project
 
-- [Projet fan site](https://github.com/thibault-manse5/job1)  
+- [Projet fan site](https://github.com/thibault-manse/job1)  
 Looking for more interesting project
 ## stats
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=thibault-manse&show_icons=true&theme=radical)

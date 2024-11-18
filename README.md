@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Header](./[Your header image])
+[Header](./[Your header image])
 <!--
 **mitchigo45/mitchigo45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

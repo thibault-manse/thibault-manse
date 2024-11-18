@@ -6,10 +6,10 @@ Hello ! My name is Thibault Manse, I live in Marseille and im a student, aspirin
 
 ## Project
 
-- [Projet fan site](https://github.com/mitchigo45/job1)  
+- [Projet fan site](https://github.com/thibault-manse5/job1)  
 Looking for more interesting project
 ## stats
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=mitchigo45&show_icons=true&theme=radical)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=thibault-manse&show_icons=true&theme=radical)
 
 ## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

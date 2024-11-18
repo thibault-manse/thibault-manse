@@ -1,7 +1,7 @@
 ![Header](./github-header.png)
 
 ## Hi there 👋
-Hello ! My name is Thibault Manse, I live in Marseille and im a new software developer / website developer. You can follow me on
+Hello ! My name is Thibault Manse, I live in Marseille and im a student, aspiring software / website developer. You can follow me on
 [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/thibault-manse-0aaa56328/)
 
 ## Project
